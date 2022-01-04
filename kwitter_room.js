@@ -8,7 +8,7 @@ const firebaseConfig = {
       projectId: "kwitter-4d0f2",
       storageBucket: "kwitter-4d0f2.appspot.com",
       messagingSenderId: "790068007037",
-      appId: "1:790068007037:web:d4841d887223dcfb55a114"
+      appId: "1:790068007037:web:c855515c03ad039855a114"
     };
     
     // Initialize Firebase
